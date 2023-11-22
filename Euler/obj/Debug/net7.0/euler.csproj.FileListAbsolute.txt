@@ -1,0 +1,12 @@
+C:\Users\hp\source\repos\Library\euler\bin\Debug\net7.0\euler.deps.json
+C:\Users\hp\source\repos\Library\euler\bin\Debug\net7.0\euler.dll
+C:\Users\hp\source\repos\Library\euler\bin\Debug\net7.0\euler.pdb
+C:\Users\hp\source\repos\Library\euler\obj\Debug\net7.0\euler.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Library\euler\obj\Debug\net7.0\euler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\Library\euler\obj\Debug\net7.0\euler.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\Library\euler\obj\Debug\net7.0\euler.AssemblyInfo.cs
+C:\Users\hp\source\repos\Library\euler\obj\Debug\net7.0\euler.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Library\euler\obj\Debug\net7.0\euler.dll
+C:\Users\hp\source\repos\Library\euler\obj\Debug\net7.0\refint\euler.dll
+C:\Users\hp\source\repos\Library\euler\obj\Debug\net7.0\euler.pdb
+C:\Users\hp\source\repos\Library\euler\obj\Debug\net7.0\ref\euler.dll
