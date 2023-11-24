@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hp\\source\\repos\\Library\\Euler\\EulerLib.csproj",
-      "projectName": "EulerLib",
-      "projectPath": "C:\\Users\\hp\\source\\repos\\Library\\Euler\\EulerLib.csproj",
+      "projectUniqueName": "C:\\Users\\hp\\source\\repos\\Library\\hjvaMath\\hjvaMath.csproj",
+      "projectName": "hjvaMath",
+      "projectPath": "C:\\Users\\hp\\source\\repos\\Library\\hjvaMath\\hjvaMath.csproj",
       "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hp\\source\\repos\\Library\\Euler\\obj\\",
+      "outputPath": "C:\\Users\\hp\\source\\repos\\Library\\hjvaMath\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

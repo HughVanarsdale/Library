@@ -1,0 +1,12 @@
+C:\Users\hp\source\repos\Library\Euler\bin\Debug\net6.0\EulerLib.deps.json
+C:\Users\hp\source\repos\Library\Euler\bin\Debug\net6.0\EulerLib.dll
+C:\Users\hp\source\repos\Library\Euler\bin\Debug\net6.0\EulerLib.pdb
+C:\Users\hp\source\repos\Library\Euler\obj\Debug\net6.0\EulerLib.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Library\Euler\obj\Debug\net6.0\EulerLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\Library\Euler\obj\Debug\net6.0\EulerLib.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\Library\Euler\obj\Debug\net6.0\EulerLib.AssemblyInfo.cs
+C:\Users\hp\source\repos\Library\Euler\obj\Debug\net6.0\EulerLib.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Library\Euler\obj\Debug\net6.0\EulerLib.dll
+C:\Users\hp\source\repos\Library\Euler\obj\Debug\net6.0\refint\EulerLib.dll
+C:\Users\hp\source\repos\Library\Euler\obj\Debug\net6.0\EulerLib.pdb
+C:\Users\hp\source\repos\Library\Euler\obj\Debug\net6.0\ref\EulerLib.dll

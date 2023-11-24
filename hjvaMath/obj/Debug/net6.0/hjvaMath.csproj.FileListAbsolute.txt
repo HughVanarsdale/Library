@@ -1,0 +1,12 @@
+C:\Users\hp\source\repos\Library\hjvaMath\bin\Debug\net6.0\hjvaMath.deps.json
+C:\Users\hp\source\repos\Library\hjvaMath\bin\Debug\net6.0\hjvaMath.dll
+C:\Users\hp\source\repos\Library\hjvaMath\bin\Debug\net6.0\hjvaMath.pdb
+C:\Users\hp\source\repos\Library\hjvaMath\obj\Debug\net6.0\hjvaMath.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Library\hjvaMath\obj\Debug\net6.0\hjvaMath.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\Library\hjvaMath\obj\Debug\net6.0\hjvaMath.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\Library\hjvaMath\obj\Debug\net6.0\hjvaMath.AssemblyInfo.cs
+C:\Users\hp\source\repos\Library\hjvaMath\obj\Debug\net6.0\hjvaMath.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Library\hjvaMath\obj\Debug\net6.0\hjvaMath.dll
+C:\Users\hp\source\repos\Library\hjvaMath\obj\Debug\net6.0\refint\hjvaMath.dll
+C:\Users\hp\source\repos\Library\hjvaMath\obj\Debug\net6.0\hjvaMath.pdb
+C:\Users\hp\source\repos\Library\hjvaMath\obj\Debug\net6.0\ref\hjvaMath.dll
