@@ -1,0 +1,12 @@
+C:\Users\hp\source\repos\Library\hjvaLib\bin\Debug\net6.0\hjvaLib.deps.json
+C:\Users\hp\source\repos\Library\hjvaLib\bin\Debug\net6.0\hjvaLib.dll
+C:\Users\hp\source\repos\Library\hjvaLib\bin\Debug\net6.0\hjvaLib.pdb
+C:\Users\hp\source\repos\Library\hjvaLib\obj\Debug\net6.0\hjvaLib.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Library\hjvaLib\obj\Debug\net6.0\hjvaLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\Library\hjvaLib\obj\Debug\net6.0\hjvaLib.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\Library\hjvaLib\obj\Debug\net6.0\hjvaLib.AssemblyInfo.cs
+C:\Users\hp\source\repos\Library\hjvaLib\obj\Debug\net6.0\hjvaLib.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Library\hjvaLib\obj\Debug\net6.0\hjvaLib.dll
+C:\Users\hp\source\repos\Library\hjvaLib\obj\Debug\net6.0\refint\hjvaLib.dll
+C:\Users\hp\source\repos\Library\hjvaLib\obj\Debug\net6.0\hjvaLib.pdb
+C:\Users\hp\source\repos\Library\hjvaLib\obj\Debug\net6.0\ref\hjvaLib.dll

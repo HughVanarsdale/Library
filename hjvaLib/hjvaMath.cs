@@ -1,9 +1,11 @@
 ﻿using System.Numerics;
 
 
-namespace hjva;
-public static class hjvaMath
+namespace hjva
 {
+    public static class hjvaMath
+    {
+        /*******************************************************************************************************/
         public static BigInteger Factorial(BigInteger n)
         {
             if (n == 1)
@@ -11,37 +13,45 @@ public static class hjvaMath
             else
                 return (n * Factorial(n - 1));
         }
+        /*******************************************************************************************************/
         public static string MultiplyTwoStrings(string one, string two)
         {
             int iTopChar, iBotChar;
-            int iCarry = 0;
-            int iMult;
-            string sRet = "0";
-            List<string> lstLines = new();
-            string sLine = String.Empty;
+            int iCarry = 0;                     // if multiplication results is larger than 10
+            int iMult;                          // multiply two characters
+            string sRet = "0";                  // return value.
+            List<string> lstLines = new();      // one for each power of 10
+            string sLine = String.Empty;        // string representative of multipling 2 chars. 
 
             // Bottem line. For each bottom line char, run through all the char's in the top line
             for (int t = two.Length - 1; t >= 0; t--)
             {
+                // convert char to integer
                 iBotChar = two[t] - '0';
                 sLine = String.Empty;
                 iCarry = 0;
-                // add leading zeros
+                // add leading zeros for each powers of 10
                 for (int u = 0; u < two.Length - 1 - t; u++)
                 {
                     sLine += "0";
                 }
                 for (int on = one.Length - 1; on >= 0; on--)
                 {
+                    // multiply two chars
                     iTopChar = one[on] - '0';
                     iMult = iBotChar * iTopChar + iCarry;
+                    // put result remainder into line string
                     sLine = (iMult % 10).ToString() + sLine;
+                    // put division value in iCarry
                     iCarry = iMult / 10;
                 }
+
+                // if last multiplaction of top and bottom digits is > 10
                 if (iCarry > 0)
                 {
                     sLine = iCarry.ToString() + sLine;
                 }
+                // each power of 10 of bottom line add them together
                 lstLines.Add(sLine);
             }
             foreach (string l in lstLines)
@@ -51,6 +61,7 @@ public static class hjvaMath
             return sRet;
         }
 
+        /*******************************************************************************************************/
         public static string AddTwoStrings(string one, string two)
         {
             const int ZEROChar = 48;
@@ -97,7 +108,7 @@ public static class hjvaMath
                     }
                 }
 
-                // Perform math
+                // Perform math one char at a time starting from the right
                 int carry = 0;
                 for (int i = one.Length - 1; i >= 0; i--)
                 {
@@ -123,6 +134,7 @@ public static class hjvaMath
             }
             return sResult;
         }
+        /*******************************************************************************************************/
         public static bool[] SieveOfEratosthenes(int MaxValue)
         {
             bool[] primes = new bool[MaxValue + 1];
@@ -154,7 +166,7 @@ public static class hjvaMath
             }
             return primes;
         }
-
+        /*******************************************************************************************************/
         public static bool isPalindrome(string s)
         {
             bool ret = true;        // Return value
@@ -164,43 +176,45 @@ public static class hjvaMath
             // If not the same return false
             for (int i = 0; i < s.Length / 2; i++)
             {
-                if (s[i] != s[s.Length - i - 1]) { 
+                if (s[i] != s[s.Length - i - 1]) {
                     ret = false;
                     break;
                 }
             }
             return ret;
         }
+        /*******************************************************************************************************/
         public static bool isPrime(long n)
         {
             //get all factors for n
             long[] factors = primeFactors(n);
 
             // if only one factor, they return true, else false.
-            if (n == 1)
-                return false;
-            else 
-                return (factors.Length == 1);
+            return (factors.Length == 1);
         }
+        /*******************************************************************************************************/
         public static long[] AllFactors(long n)
         {
             List<long> factors = new();
             long sq = (long)Math.Floor(Math.Sqrt(n));
 
-            factors.Add(1);
+            factors.Add(1); // one and input number are always factors
+                            // from 2 to square root of input number
             for (int i = 2; i < sq; i++)
             {
+                // check if interation (i) divides evenly into input number
                 if (n % i == 0)
                 {
                     factors.Add(i);
                     factors.Add(n / i);
                 }
             }
-            factors.Add(n);
+            factors.Add(n);     // put input number in factors list
 
             return factors.ToArray();
         }
 
+        /*******************************************************************************************************/
         public static long[] primeFactors(long n)
         {
             List<long> result = new();
@@ -231,7 +245,7 @@ public static class hjvaMath
                 result.Add(n);
             }
             return result.ToArray();
-
         }
-
+    }
 }
+
