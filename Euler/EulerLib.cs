@@ -2,12 +2,9 @@
 {
     public static class Problems
     {
-        /*****************************************************************************************
-        * 
-        */
 
         /******************************************************************************************
-        * In triangle of number find max path from top to bottom
+        * In triangle of numbers find max path from top to bottom
         * Actually, read data from bottom to top.
         */
         public static int MaximumPathSum(int[,] matrix){

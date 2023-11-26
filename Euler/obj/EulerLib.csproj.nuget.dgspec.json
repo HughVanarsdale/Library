@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hp\\source\\repos\\Library\\euler\\eulerLib.csproj": {}
+    "C:\\Users\\hp\\source\\repos\\Library\\Euler\\EulerLib.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hp\\source\\repos\\Library\\euler\\eulerLib.csproj": {
+    "C:\\Users\\hp\\source\\repos\\Library\\Euler\\EulerLib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hp\\source\\repos\\Library\\euler\\eulerLib.csproj",
-        "projectName": "eulerLib",
-        "projectPath": "C:\\Users\\hp\\source\\repos\\Library\\euler\\eulerLib.csproj",
+        "projectUniqueName": "C:\\Users\\hp\\source\\repos\\Library\\Euler\\EulerLib.csproj",
+        "projectName": "EulerLib",
+        "projectPath": "C:\\Users\\hp\\source\\repos\\Library\\Euler\\EulerLib.csproj",
         "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hp\\source\\repos\\Library\\euler\\obj\\",
+        "outputPath": "C:\\Users\\hp\\source\\repos\\Library\\Euler\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

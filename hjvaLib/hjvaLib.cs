@@ -20,7 +20,7 @@ namespace hjvaLib
 
                 }
             }
-            return divisors.ToArray();
+            return divisors.OrderBy(x => x).ToArray();
         }
         /**************************************************************************************************
         * recursive Factorial (n * n - 1) 

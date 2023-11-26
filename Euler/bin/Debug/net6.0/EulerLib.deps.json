@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "eulerLib/1.0.0": {
+      "EulerLib/1.0.0": {
         "runtime": {
-          "eulerLib.dll": {}
+          "EulerLib.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "eulerLib/1.0.0": {
+    "EulerLib/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

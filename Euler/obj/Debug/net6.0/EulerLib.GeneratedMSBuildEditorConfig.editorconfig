@@ -7,5 +7,5 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = eulerLib
-build_property.ProjectDir = C:\Users\hp\source\repos\Library\euler\
+build_property.RootNamespace = EulerLib
+build_property.ProjectDir = C:\Users\hp\source\repos\Library\Euler\

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "F5ZZHtQYBy0hTywnDnMRg8oioecDy0BlC5Ir3M+KSuuJMFDKx6m9Dhr2GHkHLwgjEp0uCoGeoT3hxFdHBAciJg==",
+  "dgSpecHash": "nHbn/2wFcpsLbOnjw0FZCAx+mS2BnEZtd0jvAHpBnrIZlnLPowPKC9QAy6SHj/HGO1ljC86zsREtfdCRmaDzzQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\hp\\source\\repos\\Library\\euler\\eulerLib.csproj",
+  "projectFilePath": "C:\\Users\\hp\\source\\repos\\Library\\Euler\\EulerLib.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
