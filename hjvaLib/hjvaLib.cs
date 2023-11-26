@@ -1,11 +1,30 @@
 ﻿using System.Numerics;
+using System;
 
-
-namespace hjva
+namespace hjvaLib
 {
     public static class hjvaMath
     {
-        /*******************************************************************************************************/
+        /*********************************************************************************/
+        public static int[] ProperDivisors(int inVal){
+            List<int> divisors = new();
+
+            for (int i=1; i < Math.Sqrt(inVal); i++){
+                if (inVal % i == 0){
+                    divisors.Add(i);
+
+                    int div = inVal / i;
+                    if ((div != inVal % i) && div != inVal){
+                        divisors.Add(div);
+                    }
+
+                }
+            }
+            return divisors.ToArray();
+        }
+        /**************************************************************************************************
+        * recursive Factorial (n * n - 1) 
+        ***************************************************************************************************/
         public static BigInteger Factorial(BigInteger n)
         {
             if (n == 1)

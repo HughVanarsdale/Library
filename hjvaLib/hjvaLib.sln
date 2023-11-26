@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.002.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "hjvaLib", "hjvaLib.csproj", "{E9A8EB4C-12D8-42FE-9408-F6388F757F7A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "hjvaLib", "hjvaLib.csproj", "{52E13564-F7F1-4B95-95C7-AF4ADCFF7B76}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{E9A8EB4C-12D8-42FE-9408-F6388F757F7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E9A8EB4C-12D8-42FE-9408-F6388F757F7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E9A8EB4C-12D8-42FE-9408-F6388F757F7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E9A8EB4C-12D8-42FE-9408-F6388F757F7A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52E13564-F7F1-4B95-95C7-AF4ADCFF7B76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52E13564-F7F1-4B95-95C7-AF4ADCFF7B76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52E13564-F7F1-4B95-95C7-AF4ADCFF7B76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52E13564-F7F1-4B95-95C7-AF4ADCFF7B76}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {CA8500EF-0BDC-46DD-A39B-20C82356FD8C}
+		SolutionGuid = {7DAA4020-E28F-4E80-BEB4-D364C5B99E37}
 	EndGlobalSection
 EndGlobal
